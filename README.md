@@ -7,22 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js&theme=radical)](https://github.com/Magnet-js/github-readme-stats)
 
 
-## My location
-```geojson
-{
-  "type": "Polygon",
-  "coordinates": [
-      [
-          [16,50],
-          [16,54],
-          [16,54],
-          [11,54],
-          [11,50]
-      ]
-  ]
-}
-```
-
 - 🔭 I’m currently working on YouNet
 - 🌱 I’m currently learning for school
 - 👯 I’m looking to collaborate on ...
