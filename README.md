@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js&theme=radical)](https://github.com/Magnet-js/github-readme-stats)
 
 
-- 🔭 I’m currently working on YouNet
+- 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning for school
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
