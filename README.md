@@ -2,9 +2,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnet-js&theme=radical)](https://github.com/Magnet-js/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnet-js)](https://github.com/Magnet-js/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js)](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnet-js)
 
 
 - 🔭 I’m currently working on my skills
