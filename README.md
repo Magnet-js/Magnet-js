@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnet-js" alt="magnet-js" /></a> </p>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GO** and **Assembly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
